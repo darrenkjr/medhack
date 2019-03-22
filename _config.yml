@@ -4,7 +4,7 @@ email: medhack@mymi.org.au
 description: >-
   MedHack is Victoria's premier student run medical technology hackathon
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://medhack.com.au/" # your site's origin, e.g. https://forestry.io
+url: "https://darrenkjr.github.io/medhack/" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
