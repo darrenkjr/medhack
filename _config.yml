@@ -1,12 +1,10 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
+title: Medhack
+author: darrenkjr.com
+email: medhack@mymi.org.au
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature. 
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI 
-  that will empower content editors to construct their own webpages.
-baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+  MedHack is Victoria's premier student run medical technology hackathon
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://medhack.com.au/" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
