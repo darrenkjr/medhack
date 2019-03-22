@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/Website Banner-Background.png"
+  background_image: uploads/Website Banner-Background.png
 - template: content-feature
   block: feature-1
   media_alignment: Left
